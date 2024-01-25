@@ -1,0 +1,2 @@
+# farmWiseAI-assignment
+ 
