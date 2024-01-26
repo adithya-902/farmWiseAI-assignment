@@ -1,17 +1,11 @@
-import { useState } from 'react'
+import DataCollector from './components/DataCollector';
 
-import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        hello world
-      </div>
-      
-    </>
+    <div>
+      <DataCollector />
+    </div>
   )
 }
 
